@@ -244,5 +244,5 @@ Response Generator (텍스트 + 지도 + 경로)
 <div align="center">
   <a href="mailto:hyun2kim@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/hyun2kim"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=hyun2kim&style=fla  t&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=hyun2kim&style=flat&color=blue" alt="profile views"/>
 </div>
