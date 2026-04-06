@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=hyun2kim&style=fla  t&color=blue" alt="profile views"/>
 # 안녕하세요, 진화하는 실무형 개발자 김황현입니다.
 
 > 13년의 엔터프라이즈 시스템 구축 노하우, 이제는 AI와 모던 웹을 연결합니다.
@@ -245,4 +246,3 @@ Response Generator (텍스트 + 지도 + 경로)
   <a href="mailto:hyun2kim@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/hyun2kim"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=hyun2kim&style=fla  t&color=blue" alt="profile views"/>
